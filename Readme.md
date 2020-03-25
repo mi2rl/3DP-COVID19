@@ -21,11 +21,12 @@
    * 이 장치는 AMC_MI2RL 의 자체모델링으로 개발되었으며, FDM 프린터의 PLA, ABS 등 견고한 아크릴 소재로 출력하기를 권장드립니다.
    ![image](https://user-images.githubusercontent.com/62414626/77512499-82748900-6eb6-11ea-9ecc-d9f04dd64874.png)
 
-## 3. Door handle v2
+## 3. Ear safety (Mask controler)
 
-   * 이 장치는 문을 개폐할 때, 엘레베이터나 벨 등을 누를 때 등 다양한 생활 접촉 오염을 줄이고자 개발되었으며 손을 대신하여 사용할 수 있는 작은 사이즈의 툴입니다.
-   * 이 장치는 AMC_MI2RL 의 자체모델링으로 개발되었으며, FDM 프린터의 PLA, ABS 등 견고한 아크릴 소재로 출력하기를 권장드립니다.
-   ![image](https://user-images.githubusercontent.com/62414626/77512499-82748900-6eb6-11ea-9ecc-d9f04dd64874.png)
+   * 이 장치는 장시간 착용하는 마스크로 인한 귀통증을 줄여주기위해 개발되었습니다.
+   * 이 장치는 일명 '맥심손잡이'로 불리는 귀보호 대체용품에서 착안하여, AMC_MI2RL 의 자체모델링으로 개발되었습니다. FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
+   ![image](https://user-images.githubusercontent.com/62414626/77512838-1e9e9000-6eb7-11ea-9e71-51f25017f6d9.png)
+
 
 
 # Contributer
