@@ -24,8 +24,16 @@
 ## 3. Ear safety (Mask controler)
 
    * 이 장치는 장시간 착용하는 마스크로 인한 귀통증을 줄여주기위해 개발되었습니다.
-   * 이 장치는 일명 '맥심손잡이'로 불리는 귀보호 대체용품에서 착안하여, AMC_MI2RL 의 자체모델링으로 개발되었습니다. FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
+   * 이 장치는 일명 '맥심손잡이'로 불리는 귀보호 대체용품에서 착안하여, AMC_MI2RL 의 자체모델링으로 개발되었습니다.
+   * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
    ![image](https://user-images.githubusercontent.com/62414626/77512838-1e9e9000-6eb7-11ea-9e71-51f25017f6d9.png)
+   
+## 4. safety mask (haman-specific)
+
+   * 이 장치는 다양한 사이즈의 마스크를 제작하고, 개인 맞춤형 마스크를 공급하기위해 개발되었습니다.
+   * 개인의 3D scan 영상을 획득하여, 얼굴 형상에 맞게 조정되어 적용할 수 있으며, AMC_MI2RL 의 자체모델링으로 개발되었습니다.
+   * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
+   ![image](https://user-images.githubusercontent.com/62414626/77513374-388ca280-6eb8-11ea-931a-cb5772e5bfa8.png)
 
 
 
