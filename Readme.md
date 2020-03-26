@@ -11,9 +11,9 @@
 * 그 밖의 문의사항 등은 dyhong.89@gmail.com 으로 연락주시기 바랍니다.
 
 # 관련 기사링크
-  http://www.ddaily.co.kr/news/article/?no=193388
-  https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/
-  https://n.news.naver.com/article/079/0003337612?lfrom=facebook&fbclid=IwAR1js5SM82ElAQBNUQR367zVMiWv7pU1yacDihFWC1HrOnLwkd0WZHZ15oc
+  * http://www.ddaily.co.kr/news/article/?no=193388
+  * https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/
+  * https://n.news.naver.com/article/079/0003337612?lfrom=facebook&fbclid=IwAR1js5SM82ElAQBNUQR367zVMiWv7pU1yacDihFWC1HrOnLwkd0WZHZ15oc
 
 
 ## 1. safety mask (haman-specific)
