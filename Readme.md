@@ -26,8 +26,10 @@
 ## 2. Door handle v1
 
    * 이 장치는 닫힌 문을 열 때, 접촉 오염을 줄이고자 개발되었으며 손을 사용하지않고 문을 개폐할 수 있도록 제안되었습니다.
-   * 관련 동영상링크 ()
+   * 관련 동영상링크 (
    * 이 장치는 STRATASYS 사의 모델링을 참고하여 개발되었으며, FDM 프린터의 PLA, ABS 등 견고한 아크릴 소재로 출력하기를 권장드립니다.
+   * STL 링크 https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__a.stl
+              https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__b.stl
    ![image](https://user-images.githubusercontent.com/62414626/77599063-e8a8ec80-6f46-11ea-8994-5fe0217d318d.png)
 
 ## 3. Door handle v2
