@@ -29,6 +29,7 @@
    * 관련 동영상링크 (
    * 이 장치는 STRATASYS 사의 모델링을 참고하여 개발되었으며, FDM 프린터의 PLA, ABS 등 견고한 아크릴 소재로 출력하기를 권장드립니다.
    * STL 링크 
+   
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__a.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__b.stl
               
