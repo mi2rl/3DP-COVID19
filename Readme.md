@@ -48,7 +48,7 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/keyring%20type-L_cut.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/keyring%20type-S_cut.stl
         
-   ![image](https://user-images.githubusercontent.com/62414626/77512499-82748900-6eb6-11ea-9ecc-d9f04dd64874.png)
+   ![image](https://user-images.githubusercontent.com/62414626/77602095-e7c88880-6f4f-11ea-8b06-41c1c292b397.png)
 
 ## 4. Ear safety (Mask controler)
 
