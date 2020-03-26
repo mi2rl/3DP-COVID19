@@ -77,7 +77,7 @@
     
    ![image](https://user-images.githubusercontent.com/62414626/77601651-aaafc680-6f4e-11ea-979d-0a68600b44d1.png)
   
-  ## 5. Auto hand cleaner dispenser housing
+  ## 6. Auto hand cleaner dispenser housing
 
    * 이 장치는 MI2RL 에서 개발한 자동분사 손세정제 (DONT Push Dispenser) 의 하우징을 위해 제작되었습니다.
    * 관련 개발품 링크 https://github.com/mi2rl/DONT_dispenser
