@@ -77,7 +77,18 @@
     
    ![image](https://user-images.githubusercontent.com/62414626/77601651-aaafc680-6f4e-11ea-979d-0a68600b44d1.png)
   
-  
+  ## 5. Auto hand cleaner dispenser housing
+
+   * 이 장치는 MI2RL 에서 개발한 자동분사 손세정제 (DONT Push Dispenser) 의 하우징을 위해 제작되었습니다.
+   * 관련 개발품 링크 https://github.com/mi2rl/DONT_dispenser
+   * 이 장치는 다양한 사이즈의 손세정제를 적용하여 사용할 수 있으며, AMC_MI2RL 의 자체모델링으로 개발되었습니다.
+   * FDM 프린터의 PLA 재료로 견고하게 출력하기를 권장드립니다.
+   * STL 링크 
+   
+              https://github.com/mi2rl/3DP-COVID19/blob/master/dispenser%20housing_BODY.stl
+              https://github.com/mi2rl/3DP-COVID19/blob/master/dispenser%20housing_PLATE.stl
+    
+   ![image](https://user-images.githubusercontent.com/62414626/77607620-48f75880-6f5e-11ea-8bb5-7362fb3d59cd.png)
   
   
 # Contributer
