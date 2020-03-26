@@ -14,7 +14,9 @@
   * http://www.ddaily.co.kr/news/article/?no=193388
   * https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/
   * https://n.news.naver.com/article/079/0003337612?lfrom=facebook&fbclid=IwAR1js5SM82ElAQBNUQR367zVMiWv7pU1yacDihFWC1HrOnLwkd0WZHZ15oc
-
+  * https://www.cnet.co.kr/view/?no=20200322231554
+  * http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=201&sub=004&idx=51228
+  * http://www.hkn24.com/news/articleView.html?idxno=310340
 
 ## 1. safety mask (haman-specific)
 
@@ -32,6 +34,7 @@
    * 이 장치는 닫힌 문을 열 때, 접촉 오염을 줄이고자 개발되었으며 손을 사용하지않고 문을 개폐할 수 있도록 제안되었습니다.
    * 관련 동영상링크 ()
    * 이 장치는 STRATASYS 사의 모델링을 참고하여 개발되었으며, FDM 프린터의 PLA, ABS 등 견고한 아크릴 소재로 출력하기를 권장드립니다.
+   * 관련 기사링크 http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=201&sub=004&idx=51142
    * STL 링크 
    
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__a.stl
