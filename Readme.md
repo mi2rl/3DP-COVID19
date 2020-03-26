@@ -21,6 +21,7 @@
    * 이 장치는 다양한 사이즈의 마스크를 제작하고, 개인 맞춤형 마스크를 공급하기위해 개발되었습니다.
    * 개인의 3D scan 영상을 획득하여, 얼굴 형상에 맞게 조정되어 적용할 수 있으며, AMC_MI2RL 의 자체모델링으로 개발되었습니다.
    * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
+   
    ![image](https://user-images.githubusercontent.com/62414626/77513374-388ca280-6eb8-11ea-931a-cb5772e5bfa8.png)
    
 ## 2. Door handle v1
@@ -39,6 +40,11 @@
 
    * 이 장치는 문을 개폐할 때, 엘레베이터나 벨 등을 누를 때 등 다양한 생활 접촉 오염을 줄이고자 개발되었으며 손을 대신하여 사용할 수 있는 작은 사이즈의 툴입니다.
    * 이 장치는 AMC_MI2RL 의 자체모델링으로 개발되었으며, FDM 프린터의 PLA, ABS 등 견고한 아크릴 소재로 출력하기를 권장드립니다.
+      * STL 링크 
+   
+              https://github.com/mi2rl/3DP-COVID19/blob/master/keyring%20type-L_cut.stl
+              https://github.com/mi2rl/3DP-COVID19/blob/master/keyring%20type-S_cut.stl
+        
    ![image](https://user-images.githubusercontent.com/62414626/77512499-82748900-6eb6-11ea-9ecc-d9f04dd64874.png)
 
 ## 4. Ear safety (Mask controler)
