@@ -10,6 +10,11 @@
 * 필요하신 분들은 링크 된 STL 파일을 마음대로 다운받으셔서 출력하셔도 됩니다
 * 그 밖의 문의사항 등은 dyhong.89@gmail.com 으로 연락주시기 바랍니다.
 
+* 관련 기사링크
+  http://www.ddaily.co.kr/news/article/?no=193388
+  https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/
+  https://n.news.naver.com/article/079/0003337612?lfrom=facebook&fbclid=IwAR1js5SM82ElAQBNUQR367zVMiWv7pU1yacDihFWC1HrOnLwkd0WZHZ15oc
+
 
 ## 1. safety mask (haman-specific)
 
@@ -35,6 +40,7 @@
 
    * 이 장치는 장시간 착용하는 마스크로 인한 귀통증을 줄여주기위해 개발되었습니다.
    * 이 장치는 일명 '맥심손잡이'로 불리는 귀보호 대체용품에서 착안하여, AMC_MI2RL 의 자체모델링으로 개발되었습니다.
+   * 관련기사 링크 https://www.hankyung.com/economy/article/2020031819441
    * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
    ![image](https://user-images.githubusercontent.com/62414626/77512838-1e9e9000-6eb7-11ea-9e71-51f25017f6d9.png)
 
