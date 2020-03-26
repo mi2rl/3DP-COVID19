@@ -53,6 +53,10 @@
    * 이 장치는 일명 '맥심손잡이'로 불리는 귀보호 대체용품에서 착안하여, AMC_MI2RL 의 자체모델링으로 개발되었습니다.
    * 관련기사 링크 https://www.hankyung.com/economy/article/2020031819441
    * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
+    * STL 링크 
+   
+              https://github.com/mi2rl/3DP-COVID19/blob/master/ear_safety_v3%200.5MI2RL.stl
+              
    ![image](https://user-images.githubusercontent.com/62414626/77512838-1e9e9000-6eb7-11ea-9e71-51f25017f6d9.png)
 
 
