@@ -10,6 +10,12 @@
 * 필요하신 분들은 링크 된 STL 파일을 마음대로 다운받으셔서 출력하셔도 됩니다
 * 그 밖의 문의사항 등은 dyhong.89@gmail.com 으로 연락주시기 바랍니다.
 
+# Medical device reverse engineering
+* 코로나19를 극복할 수 있는 다양한 아이디어를 3D 프린팅 기술로 실현할 수 있습니다.
+* 임상에서 충족되지 못한 다양한 needs를 받아, 필요한 medical device를 제작 할 수 있습니다.
+* CT 혹은 3D 스캐너 등을 통해 3D 영상을 얻고 동일한 형상의 파트 혹은 맞춤형 파트를 제작하여 적합한 물성의 3D 프린팅 재료로 출력합니다.
+
+
 # 관련 기사 링크
   * http://www.ddaily.co.kr/news/article/?no=193388
   * https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/
