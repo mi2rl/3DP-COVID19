@@ -56,14 +56,23 @@
    * 이 장치는 일명 '맥심손잡이'로 불리는 귀보호 대체용품에서 착안하여, AMC_MI2RL 의 자체모델링으로 개발되었습니다.
    * 관련기사 링크 https://www.hankyung.com/economy/article/2020031819441
    * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
-    * STL 링크 
+   * STL 링크 
    
               https://github.com/mi2rl/3DP-COVID19/blob/master/ear_safety_v3%200.5MI2RL.stl
               
    ![image](https://user-images.githubusercontent.com/62414626/77512838-1e9e9000-6eb7-11ea-9e71-51f25017f6d9.png)
+   
+## 5. Safety glasses frame
 
-
-
+   * 이 장치는 바이러스로부터 안구와 얼굴전체를 보호하기위한 보호용구로서 개발되었습니다.
+   * 이 장치의 프레임에 안면 보호 가능한 투명아크릴지 등을 고정하여, 사용할 수 있습니다.
+   * Thingiverse 배포 된 모델링을 기반으로 수정되었으며, FDM 프린터의 PLA 재료로 견고하게 출력하기를 권장드립니다.
+   * STL 링크 
+   
+              https://github.com/mi2rl/3DP-COVID19/blob/master/safety_mask.stl
+    
+   ![image](https://user-images.githubusercontent.com/62414626/77601651-aaafc680-6f4e-11ea-979d-0a68600b44d1.png)
+  
 # Contributer
 * 모델링 및 출력
 * 홍다영(dyhong.89@gmail.com) 김태훈(taehun416@gmail.com)
