@@ -30,7 +30,7 @@
 ## 2. Door handle v1
 
    * 이 장치는 닫힌 문을 열 때, 접촉 오염을 줄이고자 개발되었으며 손을 사용하지않고 문을 개폐할 수 있도록 제안되었습니다.
-   * 관련 동영상링크 (
+   * 관련 동영상링크 ()
    * 이 장치는 STRATASYS 사의 모델링을 참고하여 개발되었으며, FDM 프린터의 PLA, ABS 등 견고한 아크릴 소재로 출력하기를 권장드립니다.
    * STL 링크 
    
@@ -54,6 +54,7 @@
 
    * 이 장치는 장시간 착용하는 마스크로 인한 귀통증을 줄여주기위해 개발되었습니다.
    * 이 장치는 일명 '맥심손잡이'로 불리는 귀보호 대체용품에서 착안하여, AMC_MI2RL 의 자체모델링으로 개발되었습니다.
+   * 머리카락에 미끄러지지않게 돌기를 추가하였으며, 얼굴 사이즈에 따라 3단계로 조절하여 착용할 수 있습니다.
    * 관련기사 링크 https://www.hankyung.com/economy/article/2020031819441
    * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
    * STL 링크 
@@ -72,6 +73,9 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/safety_mask.stl
     
    ![image](https://user-images.githubusercontent.com/62414626/77601651-aaafc680-6f4e-11ea-979d-0a68600b44d1.png)
+  
+  
+  
   
 # Contributer
 * 모델링 및 출력
