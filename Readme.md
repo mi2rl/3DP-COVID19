@@ -10,7 +10,7 @@
 * 필요하신 분들은 링크 된 STL 파일을 마음대로 다운받으셔서 출력하셔도 됩니다
 * 그 밖의 문의사항 등은 dyhong.89@gmail.com 으로 연락주시기 바랍니다.
 
-# 관련 기사링크
+# 관련 기사 링크
   * http://www.ddaily.co.kr/news/article/?no=193388
   * https://www.3dprintingmedia.network/covid-19-3d-printed-valve-for-reanimation-device/
   * https://n.news.naver.com/article/079/0003337612?lfrom=facebook&fbclid=IwAR1js5SM82ElAQBNUQR367zVMiWv7pU1yacDihFWC1HrOnLwkd0WZHZ15oc
@@ -34,7 +34,7 @@
    * 이 장치는 닫힌 문을 열 때, 접촉 오염을 줄이고자 개발되었으며 손을 사용하지않고 문을 개폐할 수 있도록 제안되었습니다.
    * 관련 동영상링크 ()
    * 이 장치는 STRATASYS 사의 모델링을 참고하여 개발되었으며, FDM 프린터의 PLA, ABS 등 견고한 아크릴 소재로 출력하기를 권장드립니다.
-   * 관련 기사링크 http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=201&sub=004&idx=51142
+   * 관련 기사 링크 http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=201&sub=004&idx=51142
    * STL 링크 
    
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__a.stl
@@ -58,7 +58,7 @@
    * 이 장치는 장시간 착용하는 마스크로 인한 귀통증을 줄여주기위해 개발되었습니다.
    * 이 장치는 일명 '맥심손잡이'로 불리는 귀보호 대체용품에서 착안하여, AMC_MI2RL 의 자체모델링으로 개발되었습니다.
    * 머리카락에 미끄러지지않게 돌기를 추가하였으며, 얼굴 사이즈에 따라 3단계로 조절하여 착용할 수 있습니다.
-   * 관련기사 링크 https://www.hankyung.com/economy/article/2020031819441
+   * 관련 기사 링크 https://www.hankyung.com/economy/article/2020031819441
    * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
    * STL 링크 
    
