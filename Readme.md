@@ -70,7 +70,7 @@
    
               https://github.com/mi2rl/3DP-COVID19/blob/master/ear_safety_v3%200.5MI2RL.stl
               
-   ![image](https://user-images.githubusercontent.com/62414626/77512838-1e9e9000-6eb7-11ea-9e71-51f25017f6d9.png)
+   ![image](https://user-images.githubusercontent.com/62414626/77731241-e37e9700-7045-11ea-9db1-046706f7e3b1.png)
    
 ## 5. Safety glasses frame
 
