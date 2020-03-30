@@ -31,9 +31,11 @@
    * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
    * STL 링크 
    
-              https://github.com/mi2rl/3DP-COVID19/blob/master/safety_mask.stl
-   
-   ![image](https://user-images.githubusercontent.com/62414626/77513374-388ca280-6eb8-11ea-931a-cb5772e5bfa8.png)
+   version 1
+              ![image](https://user-images.githubusercontent.com/62414626/77871788-25931d00-7280-11ea-811e-69cd218beac2.png)
+              
+   version 2
+              ![image](https://user-images.githubusercontent.com/62414626/77871788-25931d00-7280-11ea-811e-69cd218beac2.png)
    
 ## 2. Door handle v1
 
