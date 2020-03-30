@@ -29,9 +29,9 @@
    * 이 장치는 다양한 사이즈의 마스크를 제작하고, 개인 맞춤형 마스크를 공급하기위해 개발되었습니다.
    * 개인의 3D scan 영상을 획득하여, 얼굴 형상에 맞게 조정되어 적용할 수 있으며, AMC_MI2RL 의 자체모델링으로 개발되었습니다.
    * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
-   * STL 링크 
+   * STL 링크 (준비중)
               
-version 1
+### 1. version 1
 ![image](https://user-images.githubusercontent.com/62414626/77871868-6723c800-7280-11ea-8e5c-c9951e9a5ac6.png)
 
               
