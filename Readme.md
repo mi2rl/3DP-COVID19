@@ -46,6 +46,7 @@
    
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__a.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__b.stl
+              https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle_support.stl
               
    ![image](https://user-images.githubusercontent.com/62414626/77875700-d81cad00-728b-11ea-8e8e-15bc41e66f8d.png)
 
