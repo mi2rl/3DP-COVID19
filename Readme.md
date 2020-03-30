@@ -31,12 +31,12 @@
    * FDM 프린터의 TPU 재료로 flexible 하게 출력하기를 권장드립니다.
    * STL 링크 
    
-              version 1
+version 1
               
               ![image](https://user-images.githubusercontent.com/62414626/77871788-25931d00-7280-11ea-811e-69cd218beac2.png)
               
               
-              version 2
+version 2
 
               ![image](https://user-images.githubusercontent.com/62414626/77871868-6723c800-7280-11ea-8e5c-c9951e9a5ac6.png)
    
