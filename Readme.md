@@ -48,8 +48,8 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__b.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle_support.stl
               
-   ![image](https://user-images.githubusercontent.com/62414626/77875700-d81cad00-728b-11ea-8e8e-15bc41e66f8d.png)
-
+   ![image](https://user-images.githubusercontent.com/62414626/77975529-3c477b80-7335-11ea-94fb-69a951c2c68f.png)
+   
 ## 3. Door handle v2
 
    * 이 장치는 문을 개폐할 때, 엘레베이터나 벨 등을 누를 때 등 다양한 생활 접촉 오염을 줄이고자 개발되었으며 손을 대신하여 사용할 수 있는 작은 사이즈의 툴입니다.
