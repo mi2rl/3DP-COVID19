@@ -33,8 +33,8 @@
               
 #### version 1
 ![image](https://user-images.githubusercontent.com/62414626/77978831-f6db7c00-733d-11ea-9d9d-75ac119226b7.png)
-#### version 1
- ![image](https://user-images.githubusercontent.com/62414626/77978908-29857480-733e-11ea-8669-9aa062258710.png)
+#### version 2
+![image](https://user-images.githubusercontent.com/62414626/77979043-8b45de80-733e-11ea-86b9-9586b4c8cbc6.png)
 
 
               
