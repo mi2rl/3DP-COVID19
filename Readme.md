@@ -83,7 +83,7 @@
    
                 https://github.com/mi2rl/3DP-COVID19/blob/master/safety_glaases%20v1.stl    
     
-   ![image](https://user-images.githubusercontent.com/62414626/77722724-e66f8c80-7031-11ea-8c56-8570985a36af.png)
+   ![image](https://user-images.githubusercontent.com/62414626/77976347-b7119600-7337-11ea-9d35-bb67f3e383db.png)
   
   ## 6. Auto hand cleaner dispenser housing
 
