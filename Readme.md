@@ -24,7 +24,7 @@
   * http://www.hellot.net/new_hellot/magazine/magazine_read.html?code=201&sub=004&idx=51228
   * http://www.hkn24.com/news/articleView.html?idxno=310340
 
-## 1. 얼굴 맞춤형 마스크, human-specific mask
+## 1. 얼굴 맞춤형 마스크 (Human-specific mask)
 
    * 이 장치는 얼굴을 3D scan 하여, 개인얼굴 맞춤형 마스크를 공급하기위해 개발되었습니다.
    * 특징: 저가, 헤파필터 교환형, 살균 가능, 얼굴 맞춤형
@@ -41,7 +41,7 @@
 
               
    
-## 2.  팔로 여는 문고리, forearm door opener
+## 2.  팔로 여는 문고리, (Forearm door opener)
 
    * 이 장치는 닫힌 문을 열 때, 접촉 오염을 줄이고자 개발되었으며 손을 사용하지않고 문을 개폐할 수 있도록 제안되었습니다.
    * 관련 동영상링크 ()
@@ -55,7 +55,7 @@
               
    ![image](https://user-images.githubusercontent.com/62414626/77975529-3c477b80-7335-11ea-94fb-69a951c2c68f.png)
    
-## 3. 휴대용 문고리, mobile door opener
+## 3. 휴대용 문고리 (Mobile door opener)
 
    * 이 장치는 문을 개폐할 때, 엘레베이터나 벨 등을 누를 때 등 다양한 생활 접촉 오염을 줄이고자 개발되었으며 손을 대신하여 사용할 수 있는 작은 사이즈의 툴입니다.
    * 이 장치는 AMC_MI2RL 의 자체모델링으로 개발되었으며, FDM 프린터의 PLA, ABS 등 견고한 아크릴 소재로 출력하기를 권장드립니다.
@@ -66,7 +66,7 @@
         
    ![image](https://user-images.githubusercontent.com/62414626/77976137-0efbcd00-7337-11ea-9b59-26a3b884efcd.png)
 
-## 4. 마스크 고리, Mask holder
+## 4. 마스크 고리 (Mask holder)
 
    * 이 장치는 장시간 착용하는 마스크로 인한 귀통증을 줄여주기위해 개발되었습니다.
    * 특징: 머리카락에 미끄러지지않게 돌기 추가, 얼굴사이즈에 따라 3단계로 조절 가능
@@ -79,7 +79,7 @@
               
    ![image](https://user-images.githubusercontent.com/62414626/77731241-e37e9700-7045-11ea-9db1-046706f7e3b1.png)
    
-## 5. 얼굴/눈 가리개, Face/eye protector
+## 5. 얼굴/눈 가리개 (Face/eye protector)
 
    * 이 장치는 바이러스로부터 안구와 얼굴전체를 보호하기위한 보호용구로서 개발되었습니다.
    * 이 장치의 프레임에 안면 보호 가능한 투명아크릴지 등을 고정하여, 사용할 수 있습니다.
@@ -90,7 +90,7 @@
     
    ![image](https://user-images.githubusercontent.com/62414626/77976347-b7119600-7337-11ea-9d35-bb67f3e383db.png)
   
-  ## 6. 자동 손세정제 하우징, Automatic hand dispenser housing
+  ## 6. 자동 손세정제 하우징 (Automatic hand dispenser housing)
 
    * 이 장치는 MI2RL 에서 개발한 자동분사 손세정제 (DONT Push Dispenser) 의 하우징을 위해 제작되었습니다.
    * 관련 개발품 링크 https://github.com/mi2rl/DONT_dispenser
