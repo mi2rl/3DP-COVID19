@@ -28,8 +28,9 @@
    * 특징: 저가, 헤파필터 교환형, 살균 가능, 얼굴 맞춤형
    * AMC_MI2RL 의 자체모델링으로 개발되었으며, FDM 프린터의 Flexible 한 TPU 재료로 출력하기를 권장드립니다.
    * STL 링크 (준비중)
+   
+   ![image](https://user-images.githubusercontent.com/62414626/78640366-95418180-78ea-11ea-82cb-4248174a0b9c.png)
               
-![image](https://user-images.githubusercontent.com/62414626/78631267-dd56a900-78d6-11ea-863c-3a64ca0731ac.png
               
    
 ## 2.  팔로 여는 문고리 (Forearm door opener)
