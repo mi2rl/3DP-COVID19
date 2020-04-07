@@ -96,7 +96,7 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/dispenser%20housing_BODY.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/dispenser%20housing_PLATE.stl
     
-   ![image](https://user-images.githubusercontent.com/62414626/77607620-48f75880-6f5e-11ea-8bb5-7362fb3d59cd.png)
+   ![image](https://user-images.githubusercontent.com/62414626/78640097-1ea48400-78ea-11ea-988f-09bcb4b423de.png)
   
   
 # Contributer
