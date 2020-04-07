@@ -29,10 +29,7 @@
    * AMC_MI2RL 의 자체모델링으로 개발되었으며, FDM 프린터의 Flexible 한 TPU 재료로 출력하기를 권장드립니다.
    * STL 링크 (준비중)
               
-![image](https://user-images.githubusercontent.com/62414626/78631267-dd56a900-78d6-11ea-863c-3a64ca0731ac.png)
-
-
-
+![image](https://user-images.githubusercontent.com/62414626/78631267-dd56a900-78d6-11ea-863c-3a64ca0731ac.png
               
    
 ## 2.  팔로 여는 문고리 (Forearm door opener)
@@ -49,6 +46,7 @@
               
    ![image](https://user-images.githubusercontent.com/62414626/77975529-3c477b80-7335-11ea-94fb-69a951c2c68f.png)
    
+   
 ## 3. 휴대용 문고리 (Mobile door opener)
 
    * 이 장치는 문을 개폐하거나 엘리베이터 버튼 등을 누를 때와 같이 다양한 생활 접촉 오염을 줄이고자 개발되었으며, 손을 대신하여 사용할 수 있는 작은 기구입니다.
@@ -58,6 +56,7 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/mobile%20door%20opner.stl
         
    ![image](https://user-images.githubusercontent.com/62414626/78637466-5c52de00-78e5-11ea-91f0-75637c97caf8.png)
+
 
 ## 4. 마스크 고리 (Mask holder)
 
@@ -85,6 +84,7 @@
     
    ![image](https://user-images.githubusercontent.com/62414626/77976347-b7119600-7337-11ea-9d35-bb67f3e383db.png)
   
+  
   ## 6. 자동 손세정제 하우징 (Automatic hand dispenser housing)
 
    * 이 장치는 MI2RL 에서 개발한 자동분사 손세정제 (DONT Push Dispenser) 의 하우징을 위해 제작되었습니다.
@@ -93,9 +93,11 @@
    * FDM 프린터의 PLA 재료로 견고하게 출력하기를 권장드립니다.
    * STL 링크 
    
-              https://github.com/mi2rl/3DP-COVID19/blob/master/dispenser%20housing_BODY.stl
-              https://github.com/mi2rl/3DP-COVID19/blob/master/dispenser%20housing_PLATE.stl
-    
+              https://github.com/mi2rl/3DP-COVID19/blob/master/Automatic%20hand%20dispenser%20housing%20p1.stl
+              https://github.com/mi2rl/3DP-COVID19/blob/master/Automatic%20hand%20dispenser%20housing%20p2.stl
+              https://github.com/mi2rl/3DP-COVID19/blob/master/Automatic%20hand%20dispenser%20housing%20p3.stl
+
+  
    ![image](https://user-images.githubusercontent.com/62414626/78640097-1ea48400-78ea-11ea-988f-09bcb4b423de.png)
   
   
