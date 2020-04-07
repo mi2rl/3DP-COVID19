@@ -58,7 +58,7 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/keyring%20type-L_cut.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/keyring%20type-S_cut.stl
         
-   ![image](https://user-images.githubusercontent.com/62414626/78622327-cfe1f480-78bf-11ea-84d0-ee7f18212c27.png)
+   ![image](https://user-images.githubusercontent.com/62414626/78637466-5c52de00-78e5-11ea-91f0-75637c97caf8.png)
 
 ## 4. 마스크 고리 (Mask holder)
 
