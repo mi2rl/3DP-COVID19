@@ -55,8 +55,7 @@
    * 이 장치는 AMC_MI2RL 의 자체모델링으로 개발되었으며, FDM 프린터의 PLA, ABS 등 견고한 아크릴 소재로 출력하기를 권장드립니다.
       * STL 링크 
    
-              https://github.com/mi2rl/3DP-COVID19/blob/master/keyring%20type-L_cut.stl
-              https://github.com/mi2rl/3DP-COVID19/blob/master/keyring%20type-S_cut.stl
+              https://github.com/mi2rl/3DP-COVID19/blob/master/mobile%20door%20opner.stl
         
    ![image](https://user-images.githubusercontent.com/62414626/78637466-5c52de00-78e5-11ea-91f0-75637c97caf8.png)
 
