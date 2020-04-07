@@ -29,11 +29,7 @@
    * AMC_MI2RL 의 자체모델링으로 개발되었으며, FDM 프린터의 Flexible 한 TPU 재료로 출력하기를 권장드립니다.
    * STL 링크 (준비중)
               
-#### version 1
-![image](https://user-images.githubusercontent.com/62414626/77979094-aca6ca80-733e-11ea-81bd-d813601ce5d2.png)
-
-#### version 2
-![image](https://user-images.githubusercontent.com/62414626/77979139-ca742f80-733e-11ea-861a-2c051be08a04.png)
+![image](https://user-images.githubusercontent.com/62414626/78631267-dd56a900-78d6-11ea-863c-3a64ca0731ac.png)
 
 
 
