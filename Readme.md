@@ -81,7 +81,7 @@
    * Thingiverse 사 배포 된 모델링을 기반으로 수정되었으며, FDM 프린터의 PLA 재료로 견고하게 출력하기를 권장드립니다.
    * STL 링크 
    
-                https://github.com/mi2rl/3DP-COVID19/blob/master/safety_glaases%20v1.stl    
+                https://github.com/mi2rl/3DP-COVID19/blob/master/Face-eye%20protector.stl 
     
    ![image](https://user-images.githubusercontent.com/62414626/77976347-b7119600-7337-11ea-9d35-bb67f3e383db.png)
   
