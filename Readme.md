@@ -35,7 +35,7 @@
 
               
    
-## 2.  팔로 여는 문고리, (Forearm door opener)
+## 2.  팔로 여는 문고리 (Forearm door opener)
 
    * 이 장치는 문을 열고 닫을 때 생길 수 있는 접촉 오염을 줄이고자 개발되었습니다. 손을 사용하지 않고 문을 개폐할 수 있는 방식을 제안합니다.
    * 관련 동영상링크 https://youtu.be/Ut0sYw5X-XA
