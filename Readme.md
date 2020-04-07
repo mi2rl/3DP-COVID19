@@ -63,7 +63,7 @@
 ## 4. 마스크 고리 (Mask holder)
 
    * 이 장치는 장시간 착용하는 마스크로 인한 귀통증을 줄여 주기 위해 개발되었습니다.
-   * 특징: 머리카락에 미끄러지지 않게 돌기 추가, 얼굴크기에 따라 3단계로 조절 가능
+   * 특징: 두가지 타입으로 제작되었으며, 귀에 거는 방식은 머리카락에 미끄러지지 않게 돌기를 추가하였고 얼굴크기에 따라 3단계로 조절 가능합니다. 귀에 걸지 않는 방식은 부드럽게 목에 닿도록 하였고 얼굴크기에 따라 3단계로 조절 가능합니다.
    * AMC_MI2RL 의 자체모델링으로 개발되었습니다.
    * 관련 기사 링크 https://www.hankyung.com/economy/article/2020031819441
    * FDM 프린터의 flexible 한 TPU 재료로 출력하기를 권장드립니다.
@@ -71,7 +71,7 @@
    
               https://github.com/mi2rl/3DP-COVID19/blob/master/ear_safety_v3%200.5MI2RL.stl
               
-   ![image](https://user-images.githubusercontent.com/62414626/77731241-e37e9700-7045-11ea-9db1-046706f7e3b1.png)
+   ![image](https://user-images.githubusercontent.com/62414626/78638720-b654a300-78e7-11ea-883b-2958290bda5f.png)
    
 ## 5. 얼굴/눈 가리개 (Face/eye protector)
 
