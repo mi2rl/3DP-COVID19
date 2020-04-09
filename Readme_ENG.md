@@ -60,7 +60,7 @@
 •	STL link:
               https://github.com/mi2rl/3DP-COVID19/blob/master/mobile%20door%20opner.stl
         
-   ![image](https://user-images.githubusercontent.com/62414626/78637466-5c52de00-78e5-11ea-91f0-75637c97caf8.png)
+   ![image](https://user-images.githubusercontent.com/62414626/78861263-5b4db800-7a6f-11ea-8812-fecd7828b91b.png)
 
 
 ## 4. Mask-strap holder
