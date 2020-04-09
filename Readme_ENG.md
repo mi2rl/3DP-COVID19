@@ -15,7 +15,7 @@
 
 # Safety devices with 3D printing
 *	With the pandemic of COVID 19, the health workers all over the world are scrambling with the shortage of safety devices such as masks as well as medical devices.
-*	To defeat the coronavirus pandemic, this project is aimed to develop and distribute the devices, which can be improved development or unmet needs. 
+*	To overcome the novel corona virus pandemic, this project is aimed to develop and share the ideas and know-hows of making newly developed devices - which not previously existed, but should be exist -  as well as ways of making up the weak points of existing devices(such as not-fitting-masks and should-contact-hand-sanitizers) that is necessary under this circumstance.
 *	This project is run by medical imaging and intelligent reality lab in Asan Medical Center(AMC-MI2RL), Seoul, Korea.
 *	Uploaded STL files are produced or modified with 3D modelling program( 3-matics (Materialise), Solidworks s/w)
 *	Download or Use of uploaded STL files are free and recommended.
@@ -88,7 +88,7 @@
 *	This device is developed as a tool for protecting eyes and face from infectious virus (respiratory droplets) by covering whole face.
 *	It can be used with attachment of transparent acrylic sheet (OHP film) onto the 3d printed frame.
 *	3D printed frame + Transparent Acrylic sheets OHP film.  
-	** OHP films can be attached(holded) onto the frame through the holes with 4-hole punch.
+	* OHP films can be attached(holded) onto the frame through the holes with 4-hole punch.
 *	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	Original design of AMC-MI2RL.
 *	STL link:    
