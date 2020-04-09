@@ -13,6 +13,10 @@
 * 임상에서 충족되지 못한 다양한 needs를 받아, 필요한 medical device를 제작 할 수 있습니다.
 * CT 혹은 3D 스캐너 등을 통해 3D 영상을 얻고 동일한 형상의 파트 혹은 맞춤형 파트를 제작하여 적합한 물성의 3D 프린팅 재료로 출력합니다.
 
+# Project preview
+
+![image](https://user-images.githubusercontent.com/62414626/78848014-73134500-7a4b-11ea-91dd-ef50f6ae194a.png)
+
 
 # 관련 기사 링크
   * http://www.ddaily.co.kr/news/article/?no=193388
