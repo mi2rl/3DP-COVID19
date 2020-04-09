@@ -1,8 +1,20 @@
 <img width="871" alt="MI2RL_logo" src="https://user-images.githubusercontent.com/55417425/77146652-e4a44700-6ace-11ea-9e69-3d38b3f35392.png">
 <br>
 
+## Contents
+	Safety Devices with 3D Printing
+	Medical Device Reverse Engineering
+	 1. Customized Mask
+	 2. Forearm Door Opener
+	 3. Portable Door Opener
+	 4. Mask-Strap Holder
+	 5. Face/ Eye Protector
+	 6. Automatic hand dispenser housing
+	Contributers
+
+
 # Safety devices with 3D printing
-*	With the pandemic of COVID 19, the health workers all over the world are scrambling with the shortage of personal protective equipments(PPEs) such as masks as well as medical devices. Under this circumstances
+*	With the pandemic of COVID 19, the health workers all over the world are scrambling with the shortage of safety devices such as masks as well as medical devices. Under this circumstances
 *	To defeat the coronavirus pandemic, this project is aimed to develop and distribute the devices, which can be improved development or unmet needs. 
 *	This project is run by medical imaging and intelligent reality lab in Asan Medical Center(AMC-MI2RL), Seoul, Korea.
 *	Uploaded STL files are produced or modified with 3D modelling program( 3-matics (Materialise), Solidworks s/w)
