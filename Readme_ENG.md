@@ -54,6 +54,7 @@
 *	We refered modelling of STARARASYS Corp., and modified with additional modeling of MI2RL to improve user convenience and stability of installation.
 *	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	STL link:   
+
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__a.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__b.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle_support.stl
@@ -67,6 +68,7 @@
 *	This device is developed with AMC-MI2RL original modelling 
 *	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	STL link:
+
               https://github.com/mi2rl/3DP-COVID19/blob/master/mobile%20door%20opner.stl
         
    ![image](https://user-images.githubusercontent.com/62414626/78861263-5b4db800-7a6f-11ea-8812-fecd7828b91b.png)
@@ -80,6 +82,7 @@
 –	Type2: not putting on the ear, without projections so that the contact surface on the neck is not uncomfortable, adjustable for face size (3-step).
 *	Printing with flexible materials (e.g. TPU in FDM) are recommended.
 *	STL link:    
+
               https://github.com/mi2rl/3DP-COVID19/blob/master/ear_safety_v3%200.5MI2RL.stl
               
    ![image](https://user-images.githubusercontent.com/62414626/78638916-10edff00-78e8-11ea-8b6f-846deb11b78b.png)
@@ -93,7 +96,8 @@
 	* OHP films can be attached(holded) onto the frame through the holes with 4-hole punch.
 *	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	Original design of AMC-MI2RL.
-*	STL link:    
+*	STL link:  
+
                 https://github.com/mi2rl/3DP-COVID19/blob/master/Face-eye%20protector.stl 
     
    ![image](https://user-images.githubusercontent.com/62414626/77976347-b7119600-7337-11ea-9d35-bb67f3e383db.png)
@@ -117,6 +121,6 @@
   
 # Project Contributers
 * 3D modeling and Printing
-	* Dayoung Hong(dyhong.89@gmail.com) Taehun Kim(taehun416@gmail.com)
+	* Dayeong Hong(dyhong.89@gmail.com) Taehun Kim(taehun416@gmail.com)
 * General Advisor
 	* NamKug Kim([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
