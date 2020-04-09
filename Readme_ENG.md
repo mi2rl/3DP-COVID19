@@ -15,7 +15,7 @@
 
 # Safety devices with 3D printing
 *	With the pandemic of COVID 19, the health workers all over the world are scrambling with the shortage of safety devices such as masks as well as medical devices.
-*	To overcome the novel corona virus pandemic, this project is aimed to share the ideas and know-hows of making newly developed devices - which not previously existed, but should be exist -  as well as ways of making up the weak points of existing devices(such as not-fitting-masks and should-contact-hand-sanitizers) that is necessary under this circumstance.
+*	To overcome the novel corona virus pandemic, this project is aimed to share the ideas and know-hows of making newly developed devices - which not previously existed, but should be exist -  as well as ways of making up the weak points of existing devices(such as not-fitting-masks or should-contact-hand-sanitizers) which are necessary under this circumstance.
 *	This project is run by medical imaging and intelligent reality lab in Asan Medical Center(AMC-MI2RL), Seoul, Korea.
 *	Uploaded STL files are produced or modified with 3D modelling program( 3-matics (Materialise), Solidworks s/w)
 *	Download or Use of uploaded STL files are free and recommended.
