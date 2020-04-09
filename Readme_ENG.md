@@ -37,8 +37,8 @@
 
 *	This is to product personal customized mask using 3D scanning
 *	Merits: cost effective, replaceable HEPA filter, sterilization available, face-fit customized( can reduce the air flow gap
-*	Printing with flexible materials (e.g. TPU in FDM) are recommended
-*	Original design of AMC-MI2RL
+*	Printing with flexible materials (e.g. TPU in FDM) are recommended.
+*	Original design of AMC-MI2RL.
 *	STL link: Preparing
    
    ![image](https://user-images.githubusercontent.com/62414626/78640366-95418180-78ea-11ea-82cb-4248174a0b9c.png)
@@ -51,7 +51,7 @@
 *	Demo video: https://youtu.be/Ut0sYw5X-XA
 *	We refered modelling of STARARASYS Corp., and was modified with additional modeling of MI2RL to improve user convenience and stability of installation.
 *	This device first refered the original modeling of STRATAYS Corps., and modified to improve user convenience and stability of installation with MI2RL modelling.
-*	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended
+*	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	STL link:   
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__a.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__b.stl
@@ -64,7 +64,7 @@
 
 *	With this small device, people can minimize the chance of potential exposure reducing the hand contact to the possibly contaminated surfaces such as door handles(when opening/closing the door) or elevator buttons.
 *	This device is developed with AMC-MI2RL original modelling 
-*	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended
+*	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	STL link:
               https://github.com/mi2rl/3DP-COVID19/blob/master/mobile%20door%20opner.stl
         
@@ -77,7 +77,7 @@
 *	Merit: Made in two type
 –	Type1 : putting on around the ear, projections make resistance with hairs so that not slip, size adjustable for face size (3-step).
 –	Type2: not putting on the ear, without projections so that the contact surface on the neck is not uncomfortable, adjustable for face size (3-step).
-*	Printing with flexible materials (e.g. TPU in FDM) are recommended
+*	Printing with flexible materials (e.g. TPU in FDM) are recommended.
 *	STL link: 
 
    
@@ -89,12 +89,12 @@
 ## 5. Face/eye protector
 
 *	This device is developed as a tool for protecting peoples' eyes and face from infectious virus (respiratory droplets) by covering whole face.
-*	Transparent acrylic sheet 
+*	Transparent acrylic sheet .
 *	It can be used with attachment of transparent acrylic sheet (OHP film) onto the 3d printed frame.
 *	3D printed frame + Transparent Acrylic sheets OHP film.
-–	OHP films can be attached(holded) onto the frame through the holes with 4-hole punch
-*	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended
-*	Original design of AMC-MI2RL
+–	OHP films can be attached(holded) onto the frame through the holes with 4-hole punch.
+*	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
+*	Original design of AMC-MI2RL.
 *	STL link:    
                 https://github.com/mi2rl/3DP-COVID19/blob/master/Face-eye%20protector.stl 
     
@@ -104,7 +104,7 @@
   ## 6.Automatic hand dispenser housing
 
 *	This device is developed housing for DON’T Push dispenser.
-*	Related developed device link: https://github.com/mi2rl/DONT_dispenser
+*	Related developed device link: https://github.com/mi2rl/DONT_dispenser.
 *	It can using hand cleaner of various size, original design of AMC-MI2RL.
 *	Printing with robust materials (e.g. ABS, PLA in FDM, CJP) are recommended.
 *	STL link: 
