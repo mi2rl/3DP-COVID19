@@ -115,6 +115,6 @@
   
 # Project Contributers
 * 3D modeling and Printing
-** Dayoung Hong(dyhong.89@gmail.com) Taehun Kim(taehun416@gmail.com)
+	* Dayoung Hong(dyhong.89@gmail.com) Taehun Kim(taehun416@gmail.com)
 * General Advisor
-** NamKug Kim([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
+	* NamKug Kim([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
