@@ -19,10 +19,6 @@
 3.	print with appropriate 3D printing material
 
 
-# Project preview
-
-![image](https://user-images.githubusercontent.com/62414626/78848014-73134500-7a4b-11ea-91dd-ef50f6ae194a.png)
-
 
 
 ## 1. Customized mask (Human-specific mask)
