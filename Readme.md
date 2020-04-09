@@ -2,15 +2,15 @@
 <br>
 
 ## Contents
-	**Safety Devices with 3D Printing
-	**Medical Device Reverse Engineering
-		***1. Customized Mask
-		***2. Forearm Door Opener
-		***3. Portable Door Opener
-		***4. Mask-Strap Holder
-		***5. Face/ Eye Protector
-		***6. Automatic hand dispenser housing
-**Contributers
+	Safety Devices with 3D Printing
+	Medical Device Reverse Engineering
+	 1. Customized Mask
+	 2. Forearm Door Opener
+	 3. Portable Door Opener
+	 4. Mask-Strap Holder
+	 5. Face/ Eye Protector
+	 6. Automatic hand dispenser housing
+	Contributers
 
 
 
