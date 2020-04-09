@@ -23,12 +23,12 @@
 
 
 # Medical device reverse engineering
-*	Various ideas to defeat the battle with COVID19 can be realized with 3D printing.
-*	With a medical unmet needs in frontline clinical field (healthcare work place), unmet needs for medical devices can be fulfilled.
-*	It can be done with following protocal,
-1.	get 3D image from CT or 3D scanner
-2.	make parts of the same shape or customized parts
-3.	print with appropriate 3D printing material
+*	Various ideas to back in  COVID-19 pandemic can be realized with 3D printing.
+*	Unmet needs of frontline healthcare workers for medical devices can be fulfilled.
+*	It can be done with following protocol,
+	1.	get 3D image from CT or 3D scanner
+	2.	make parts of the same shape or customized parts
+	3.	print with appropriate 3D printing material
 
 
 
@@ -36,8 +36,8 @@
 ## 1. Customized mask (Human-specific mask)
 
 *	This is to product personal customized mask using 3D scanning
-*	Merits: cost effective, replaceable HEPA filter, sterilization available, face-fit customized( can reduce the air flow gap
-*	Printing with flexible materials (e.g. TPU in FDM) are recommended.
+*	Merits: cost effective, replaceable HEPA filter, sterilization available, face-fit customized(can reduce the air flow gap)
+*	Printing with flexible materials (e.g. TPU in FDM) is recommended.
 *	Original design of AMC-MI2RL.
 *	STL link: Preparing
    
@@ -49,8 +49,7 @@
 
 *	We propose new way of door opening. This can reduce the chance of  potential exposure occuring when touching the contaminated door or door handle surface with hand.
 *	Demo video: https://youtu.be/Ut0sYw5X-XA
-*	We refered modelling of STARARASYS Corp., and was modified with additional modeling of MI2RL to improve user convenience and stability of installation.
-*	This device first refered the original modeling of STRATAYS Corps., and modified to improve user convenience and stability of installation with MI2RL modelling.
+*	We refered modelling of STARARASYS Corp., and modified with additional modeling of MI2RL to improve user convenience and stability of installation.
 *	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	STL link:   
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__a.stl
@@ -73,14 +72,12 @@
 
 ## 4. Mask-strap holder
 
-*	Wearing a mask for many hours can cause the pain behind the ear. This device is developed to lessen that kind of pain and also reduce the gap between face and the mask with size control.
-*	Merit: Made in two type
-–	Type1 : putting on around the ear, projections make resistance with hairs so that not slip, size adjustable for face size (3-step).
+*	Wearing a mask for many hours can cause pain behind the ear. This device is developed to lessen that kind of pain and also reduce the gap between face and the mask by size control.
+*	Merit: Made in two type  
+–	Type1 : putting on around the ear, projections make resistance with hairs so that not slip, size adjustable for face size (3-step).  
 –	Type2: not putting on the ear, without projections so that the contact surface on the neck is not uncomfortable, adjustable for face size (3-step).
 *	Printing with flexible materials (e.g. TPU in FDM) are recommended.
-*	STL link: 
-
-   
+*	STL link:    
               https://github.com/mi2rl/3DP-COVID19/blob/master/ear_safety_v3%200.5MI2RL.stl
               
    ![image](https://user-images.githubusercontent.com/62414626/78638916-10edff00-78e8-11ea-8b6f-846deb11b78b.png)
@@ -88,11 +85,10 @@
    
 ## 5. Face/eye protector
 
-*	This device is developed as a tool for protecting peoples' eyes and face from infectious virus (respiratory droplets) by covering whole face.
-*	Transparent acrylic sheet .
+*	This device is developed as a tool for protecting eyes and face from infectious virus (respiratory droplets) by covering whole face.
 *	It can be used with attachment of transparent acrylic sheet (OHP film) onto the 3d printed frame.
-*	3D printed frame + Transparent Acrylic sheets OHP film.
-–	OHP films can be attached(holded) onto the frame through the holes with 4-hole punch.
+*	3D printed frame + Transparent Acrylic sheets OHP film.  
+	** OHP films can be attached(holded) onto the frame through the holes with 4-hole punch.
 *	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	Original design of AMC-MI2RL.
 *	STL link:    
@@ -103,9 +99,9 @@
   
   ## 6.Automatic hand dispenser housing
 
-*	This device is developed housing for DON’T Push dispenser.
-*	Related developed device link: https://github.com/mi2rl/DONT_dispenser.
-*	It can using hand cleaner of various size, original design of AMC-MI2RL.
+*	This device is developed as a housing unit for [DON’T push dispenser](https://github.com/mi2rl/DONT_dispenser).
+*	It can be used with various size of hand sanitizers. 
+*	Original design of AMC-MI2RL.
 *	Printing with robust materials (e.g. ABS, PLA in FDM, CJP) are recommended.
 *	STL link: 
   
@@ -117,8 +113,8 @@
    ![image](https://user-images.githubusercontent.com/62414626/78640097-1ea48400-78ea-11ea-988f-09bcb4b423de.png)
   
   
-# Contributer
-* 모델링 및 출력
-* 홍다영(dyhong.89@gmail.com) 김태훈(taehun416@gmail.com)
-* 기획 및 총괄
-* 김남국([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
+# Project Contributers
+* 3D modeling and Printing
+** Dayoung Hong(dyhong.89@gmail.com) Taehun Kim(taehun416@gmail.com)
+* General Advisor
+** NamKug Kim([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
