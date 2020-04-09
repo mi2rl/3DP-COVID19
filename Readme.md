@@ -1,6 +1,19 @@
 <img width="871" alt="MI2RL_logo" src="https://user-images.githubusercontent.com/55417425/77146652-e4a44700-6ace-11ea-9e69-3d38b3f35392.png">
 <br>
 
+## Contents
+	**Safety Devices with 3D Printing
+	**Medical Device Reverse Engineering
+		***1. Customized Mask
+		***2. Forearm Door Opener
+		***3. Portable Door Opener
+		***4. Mask-Strap Holder
+		***5. Face/ Eye Protector
+		***6. Automatic hand dispenser housing
+**Contributers
+
+
+
 # Safety devices with 3D printing
 * 해당 프로젝트는 신종코로나바이러스(코로나19, SARS-CoV-19)를 극복하기위해 서울아산병원 MI2RL 연구실(이하 AMC_MI2RL)에서 진행하고 있습니다.
 * 코로나바이러스감염증의 팬데믹으로 인해 전세계적으로 의료종사자들이 의료장비의 고갈에 시달리고 있습니다. 이에 본 프로젝트는 해당 상황에 대처하기 위해 기존의 마스크나 손소독제의 단점을 보완할 수 있는 장비들 뿐만 아니라, 현 상황에 필요한 기존에 없던 새로운 장비를 개발하고 보급하는 것을 목적으로 합니다.
@@ -12,10 +25,6 @@
 * 코로나19를 극복할 수 있는 다양한 아이디어를 3D 프린팅 기술로 실현할 수 있습니다.
 * 임상에서 충족되지 못한 다양한 needs를 받아, 필요한 medical device를 제작 할 수 있습니다.
 * CT 혹은 3D 스캐너 등을 통해 3D 영상을 얻고 동일한 형상의 파트 혹은 맞춤형 파트를 제작하여 적합한 물성의 3D 프린팅 재료로 출력합니다.
-
-# Project preview
-
-![image](https://user-images.githubusercontent.com/62414626/78848014-73134500-7a4b-11ea-91dd-ef50f6ae194a.png)
 
 
 # 관련 기사 링크
