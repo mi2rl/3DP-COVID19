@@ -72,7 +72,7 @@
    
               https://github.com/mi2rl/3DP-COVID19/blob/master/mobile%20door%20opner.stl
         
-   ![image](https://user-images.githubusercontent.com/62414626/78637466-5c52de00-78e5-11ea-91f0-75637c97caf8.png)
+   ![image](https://user-images.githubusercontent.com/62414626/78965275-8ac7f780-7b37-11ea-9b32-f4c316883ef5.png)
 
 
 ## 4. 마스크 고리 (Mask holder)
