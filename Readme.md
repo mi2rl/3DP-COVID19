@@ -60,7 +60,8 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__b.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle_support.stl
               
-   ![image](https://user-images.githubusercontent.com/62414626/77975529-3c477b80-7335-11ea-94fb-69a951c2c68f.png)
+  ![image](https://user-images.githubusercontent.com/62414626/78965275-8ac7f780-7b37-11ea-9b32-f4c316883ef5.png)
+
    
    
 ## 3. 휴대용 문고리 (Mobile door opener)
