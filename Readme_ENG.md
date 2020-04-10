@@ -43,7 +43,7 @@
 *	Original design of AMC-MI2RL.
 *	STL link: Preparing
    
-   ![image](https://user-images.githubusercontent.com/62414626/78640366-95418180-78ea-11ea-82cb-4248174a0b9c.png)
+    ![image](https://user-images.githubusercontent.com/62414626/78964722-104aa800-7b36-11ea-96d0-7a5c85ec4e3a.png)
               
               
    
@@ -59,7 +59,7 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__b.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle_support.stl
               
-   ![image](https://user-images.githubusercontent.com/62414626/77975529-3c477b80-7335-11ea-94fb-69a951c2c68f.png)
+   ![image](https://user-images.githubusercontent.com/62414626/78967581-d7aecc80-7b3d-11ea-9460-b0675c882976.png)
    
    
 ## 3. Portable door opener
@@ -71,7 +71,7 @@
 
               https://github.com/mi2rl/3DP-COVID19/blob/master/mobile%20door%20opner.stl
         
-   ![image](https://user-images.githubusercontent.com/62414626/78861263-5b4db800-7a6f-11ea-8812-fecd7828b91b.png)
+   ![image](https://user-images.githubusercontent.com/62414626/78965275-8ac7f780-7b37-11ea-9b32-f4c316883ef5.png)
 
 
 ## 4. Mask-strap holder
@@ -85,7 +85,7 @@
 
               https://github.com/mi2rl/3DP-COVID19/blob/master/ear_safety_v3%200.5MI2RL.stl
               
-   ![image](https://user-images.githubusercontent.com/62414626/78638916-10edff00-78e8-11ea-8b6f-846deb11b78b.png)
+  ![image](https://user-images.githubusercontent.com/62414626/78967208-c1ecd780-7b3c-11ea-8976-d6b6dc92f0fd.png)
 
    
 ## 5. Face/eye protector
@@ -100,7 +100,7 @@
 
                 https://github.com/mi2rl/3DP-COVID19/blob/master/Face-eye%20protector.stl 
     
-   ![image](https://user-images.githubusercontent.com/62414626/77976347-b7119600-7337-11ea-9d35-bb67f3e383db.png)
+  ![image](https://user-images.githubusercontent.com/62414626/78966982-29565780-7b3c-11ea-8aab-655c6ab83736.png)
   
   
   ## 6.Automatic hand dispenser housing
@@ -116,7 +116,7 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/Automatic%20hand%20dispenser%20housing%20p3.stl
 
   
-   ![image](https://user-images.githubusercontent.com/62414626/78640097-1ea48400-78ea-11ea-988f-09bcb4b423de.png)
+   ![image](https://user-images.githubusercontent.com/62414626/78966860-d54b7300-7b3b-11ea-9514-5be9274c2969.png)
   
   
 # Project Contributers
