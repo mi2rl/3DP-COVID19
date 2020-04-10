@@ -100,7 +100,7 @@
    
                 https://github.com/mi2rl/3DP-COVID19/blob/master/Face-eye%20protector.stl 
     
-   ![image](https://user-images.githubusercontent.com/62414626/78966394-c617f580-7b3a-11ea-9d59-e79c8074d0e3.png)
+   ![image](https://user-images.githubusercontent.com/62414626/78966982-29565780-7b3c-11ea-8aab-655c6ab83736.png)
 
   
   
