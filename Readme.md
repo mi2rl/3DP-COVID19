@@ -117,8 +117,8 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/Automatic%20hand%20dispenser%20housing%20p3.stl
 
   
-   ![image](https://user-images.githubusercontent.com/62414626/78640097-1ea48400-78ea-11ea-988f-09bcb4b423de.png)
-  
+   ![image](https://user-images.githubusercontent.com/62414626/78966860-d54b7300-7b3b-11ea-9514-5be9274c2969.png)
+   
   
 # Contributer
 * 모델링 및 출력
