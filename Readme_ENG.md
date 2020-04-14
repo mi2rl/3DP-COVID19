@@ -65,6 +65,7 @@
 ## 3. Portable door opener
 
 *	With this small device, people can minimize the chance of potential exposure reducing the hand contact to the possibly contaminated surfaces such as door handles(when opening/closing the door) or elevator buttons.
+*	How to use: Fix the index finger on the "fixed finger" part to use it. The "pressing button" is used to press the elevator button, etc., and in the "keyring holder" part, the portability has been increased so that it can be worn on name card necklace of keyring. "open/close door" part can be used when the open or close door.
 *	This device is developed with AMC-MI2RL original modelling 
 *	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	STL link:
