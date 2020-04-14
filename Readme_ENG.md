@@ -59,8 +59,8 @@
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle__b.stl
               https://github.com/mi2rl/3DP-COVID19/blob/master/Doorhandle_support.stl
               
-   ![image](https://user-images.githubusercontent.com/62414626/78967581-d7aecc80-7b3d-11ea-9460-b0675c882976.png)
-   
+   ![image](https://user-images.githubusercontent.com/62414626/79185342-95dd9900-7e51-11ea-924b-257d3027fb1e.png)
+
    
 ## 3. Portable door opener
 
