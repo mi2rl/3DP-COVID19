@@ -97,6 +97,7 @@
 	* OHP films can be attached(holded) onto the frame through the holes with 4-hole punch.
 *	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	Original design of AMC-MI2RL.
+*	Improvements: Resized to fit normal heads, flattened the surface that touches the skin so that there is no pain, and fixed with a sponge.
 *	STL link:  
 
                 https://github.com/mi2rl/3DP-COVID19/blob/master/Face-eye%20protector.stl 
