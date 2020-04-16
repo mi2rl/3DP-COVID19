@@ -94,7 +94,7 @@
 *	This device is developed as a tool for protecting eyes and face from infectious virus (respiratory droplets) by covering whole face.
 *	It can be used with attachment of transparent acrylic sheet (OHP film) onto the 3d printed frame.
 *	3D printed frame + Transparent Acrylic sheets OHP film.  
-	* OHP films can be attached(holded) onto the frame through the holes with 4-hole punch.
+	* OHP films can be attached(holded) onto the frame through the holes with 4-hole punch. (Spec: 67*80*67 mm)
 *	Printing with robust materials (e.g. ABS, PLA in FDM) are recommended.
 *	Original design of AMC-MI2RL.
 *	Improvements: Resized to fit normal heads, flattened the surface that touches the skin so that there is no pain, and fixed with a sponge.
