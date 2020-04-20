@@ -75,7 +75,7 @@
    ![image](https://user-images.githubusercontent.com/62414626/78965275-8ac7f780-7b37-11ea-9b32-f4c316883ef5.png)
 
 
-## 4. Mask-strap holder
+## 4. Size-Adjustable Ear Guard
 
 *	Wearing a mask for many hours can cause pain behind the ear. This device is developed to lessen that kind of pain and also reduce the gap between face and the mask by size control.
 *	Merit: Made in two type  
