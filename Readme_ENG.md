@@ -62,7 +62,7 @@
    ![image](https://user-images.githubusercontent.com/62414626/79185342-95dd9900-7e51-11ea-924b-257d3027fb1e.png)
 
    
-## 3. Portable Anti-Contact Tool; PACT
+## 3. Portable Untact Tool; PUT
 
 *	With this small device, people can minimize the chance of potential exposure reducing the hand contact to the possibly contaminated surfaces such as door handles(when opening/closing the door) or elevator buttons.
 *	How to use: Fix the index finger on the "fixed finger" part to use it. The "pressing button" is used to press the elevator button, etc., and in the "keyring holder" part, the portability has been increased so that it can be worn on name card necklace of keyring. "open/close door" part can be used when the open or close door.
