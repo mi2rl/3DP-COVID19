@@ -74,7 +74,7 @@
    
               https://github.com/mi2rl/3DP-COVID19/blob/master/mobile%20door%20opner.stl
         
-   ![image](https://user-images.githubusercontent.com/62414626/78965275-8ac7f780-7b37-11ea-9b32-f4c316883ef5.png)
+   ![image](https://user-images.githubusercontent.com/62414626/79714743-b8b5f480-830c-11ea-96c9-6dc475e26c8f.png)
 
 
 ## 4. 마스크 고리 (Size-adjustable ear guard)
