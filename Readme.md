@@ -88,7 +88,7 @@
    
               https://github.com/mi2rl/3DP-COVID19/blob/master/ear_safety_v3%200.5MI2RL.stl
               
-   ![image](https://user-images.githubusercontent.com/62414626/79721438-4a2d6280-831d-11ea-9ee1-ea26ac25d2df.png)
+   ![image](https://user-images.githubusercontent.com/62414626/79721696-bf993300-831d-11ea-8c5e-ba9376fa26ae.png)
    
    
 ## 5. 얼굴/눈 가리개 (Face/eye protector)
