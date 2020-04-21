@@ -72,7 +72,7 @@
 
               https://github.com/mi2rl/3DP-COVID19/blob/master/mobile%20door%20opner.stl
         
-   ![image](https://user-images.githubusercontent.com/62414626/78965275-8ac7f780-7b37-11ea-9b32-f4c316883ef5.png)
+   ![image](https://user-images.githubusercontent.com/62414626/79720900-75fc1880-831c-11ea-8097-042e56ec015f.png)
 
 
 ## 4. Size-Adjustable Ear Guard
