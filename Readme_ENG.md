@@ -18,7 +18,7 @@
 *	To overcome the novel corona virus pandemic, this project is aimed to share the ideas and know-hows of making newly developed devices - which not previously existed, but should be exist -  as well as the ways of making up the weak points of existing devices(such as not-fitting-masks or should-contact-hand-sanitizers) which are necessary under this circumstance.
 
 *	Uploaded STL files are produced or modified with 3D modelling program( 3-matics (Materialise), Solidworks s/w)
-*	Download or Use of uploaded STL files are free and **highly recommended**.
+*	Download or Use of uploaded STL files are free and **highly recommended**. (Copyright 2020. Univeristy of Ulsan College of Medicine. All right reserved according to FreeBSD License.)
 *	For further information or questions, please contact via email: dyhong.89@gmail.com
 
 #### *	This project is run by **Medical Imaging and Intelligent Reality Lab in Asan Medical Center(AMC-MI2RL)**, Seoul, Korea.
