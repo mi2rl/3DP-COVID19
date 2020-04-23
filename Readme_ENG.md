@@ -130,4 +130,4 @@
    * General Management
      * Namkug Kim([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
    * Contributor
-     * Jun Beom Seo, Namkug Kim (Asan medical center, University of ulsan college of medicine)
+     * Joon Beom Seo, Namkug Kim (Asan medical center, University of ulsan college of medicine)
