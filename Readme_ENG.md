@@ -102,7 +102,7 @@
 
                 https://github.com/mi2rl/3DP-COVID19/blob/master/Face-eye%20protector.stl 
     
-  ![image](https://user-images.githubusercontent.com/62414626/79721921-20c10680-831e-11ea-9651-b9174b6bfad4.png)
+  ![image](https://user-images.githubusercontent.com/62414626/80060233-02028000-8569-11ea-8fab-d070512e8888.png)
   
   
   ## 6.Automatic hand dispenser housing
