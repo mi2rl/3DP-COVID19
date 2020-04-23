@@ -126,6 +126,6 @@
 
    
    * 3D Modeling and printing
-     * Dayeong Hong([dyhong.89@gmail.com](mailto:dyhong.89@gmail.com)), Taehun Kim(taehun416@gmail.com) Jaeyoung Kwon(nisroeld2@gmail.com) Eunseo Gwon(nan27es@gmail.com) Junhyock Ock(jhock8755@gmail.com) Junmo Ku (kwjnmo7@gmail.com)   
+     * Dayeong Hong([dyhong.89@gmail.com](mailto:dyhong.89@gmail.com)), Taehun Kim(taehun416@gmail.com) Jaeyoung Kwon(nisroeld2@gmail.com) Eunseo Gwon(nan27es@gmail.com) Junhyock Ock(jhock8755@gmail.com) Junmo Ku(kwjnmo7@gmail.com)   
    * General Management
      * Namkug Kim([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
