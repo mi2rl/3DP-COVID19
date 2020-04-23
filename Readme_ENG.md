@@ -121,8 +121,11 @@
    ![image](https://user-images.githubusercontent.com/62414626/78966860-d54b7300-7b3b-11ea-9514-5be9274c2969.png)
   
   
-# Project Contributers
-* 3D modeling and Printing
-	* Dayeong Hong(dyhong.89@gmail.com) Taehun Kim(taehun416@gmail.com)
-* General Advisor
-	* NamKug Kim([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
+  
+## 6. Contributer
+
+   
+   * 3D Modeling and printing
+     * Dayeong Hong([dyhong.89@gmail.com](mailto:dyhong.89@gmail.com)), Taehun Kim(taehun416@gmail.com) Jaeyoung Kwon(nisroeld2@gmail.com) Eunseo Gwon(nan27es@gmail.com) Junhyock Ock(jhock8755@gmail.com) Junmo Ku (kwjnmo7@gmail.com)   
+   * General Management
+     * Namkug Kim([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
