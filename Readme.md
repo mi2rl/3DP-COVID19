@@ -128,3 +128,5 @@
      * 홍다영([dyhong.89@gmail.com](mailto:dyhong.89@gmail.com)), 김태훈(taehun416@gmail.com) 권재영(nisroeld2@gmail.com) 권은서 (nan27es@gmail.com) 옥준혁 (jhock8755@gmail.com) 구준모 (kwjnmo7@gmail.com)   
    * 기획 및 총괄
      * 김남국([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
+   * 기부
+     * 서울아산병원/울산의대 서준범, 김남국
